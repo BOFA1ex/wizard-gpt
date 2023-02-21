@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bofa1ex.wizardgpt.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bofa1ex.wizardgpt.MyBundle
 
 class MyApplicationService {
 
